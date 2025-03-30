@@ -1,0 +1,7 @@
+"2","Warning in gzfile(file, ""wb"") :"
+"2","
+ "
+"2"," cannot open compressed file 'C:/Users/Michael Angello/Documents/Michael/Portofolio/Data Science/Coursera  - Data Science Foundations using R Specialization/Advanced Reproducible Research/.Rproj.user/shared/notebooks/15324BCB-tugas/1/s/cjtmsfv2wm4ml_t/ed0a4f3334db417bafa08bb778ff1b4d.snapshot', probable reason 'No such file or directory'
+"
+"2","Error in gzfile(file, ""wb"") : cannot open the connection
+"

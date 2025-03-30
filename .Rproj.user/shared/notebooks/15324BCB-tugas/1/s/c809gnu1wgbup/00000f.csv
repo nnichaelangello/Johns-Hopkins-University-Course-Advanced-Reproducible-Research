@@ -1,0 +1,2 @@
+"0","# Membaca file CSV terkompresi"
+"0","storm_data <- read_csv(""StormData.csv.bz2"", show_col_types = FALSE)"
